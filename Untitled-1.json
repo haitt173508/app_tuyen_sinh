@@ -1,0 +1,132 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"name": "Viện Cơ khí",
+			"leader": "TS. Hoàng Hồng Hải, Phó Viện trưởng",
+			"email": "hai.hoanghong@hust.edu.vn",
+			"phone": "0934.493.466",
+			"website": "https://sme.hust.edu.vn/"
+		},
+		{
+			"id": 2,
+			"name": "Viện Cơ khí Động lực",
+			"leader": "TS. Phạm Văn Sáng, Phó Viện trưởng",
+			"email": "sang.phamvan@hust.edu.vn",
+			"phone": "0966.633.683",
+			"website": "http://ste.hust.edu.vn/"
+		},
+		{
+			"id": 3,
+			"name": "Viện Điện",
+			"leader": "TS. Phạm Việt Phương, Phó Viện trưởng",
+			"email": "phuong.phamviet@hust.edu.vn",
+			"phone": "0945.392.266",
+			"website": "https://see.hust.edu.vn/"
+		},
+		{
+			"id": 4,
+			"name": "Viện Điện tử - Viễn thông",
+			"leader": "PGS.TS. Nguyễn Đức Minh, Phó Viện trưởng",
+			"email": "minh.nguyenduc1@hust.edu.vn",
+			"phone": "0963.122.389",
+			"website": "http://set.hust.edu.vn/"
+		},
+		{
+			"id": 5,
+			"name": "Viện Công nghệ thông tin và Truyền thông",
+			"leader": "PGS.TS. Cao Tuấn Dũng, Phó Viện trưởng",
+			"email": "dung.caotuan@hust.edu.vn",
+			"phone": "0983.359.425",
+			"website": "https://soict.hust.edu.vn/"
+		},
+		{
+			"id": 6,
+			"name": "Viện Toán ứng dụng và Tin học",
+			"leader": "TS. Nguyễn Thị Thanh Huyền, Phó Viện trưởng",
+			"email": "minh.nguyenduc1@hust.edu.vn",
+			"phone": "0963.122.389",
+			"website": "http://set.hust.edu.vn/"
+		},
+		{
+			"id": 7,
+			"name": "Viện Kỹ thuật Hóa học",
+			"leader": "TS. Nguyễn Ngọc Tuệ, Phó Viện trưởng ",
+			"email": "tue.nguyenngoc@hust.edu.vn",
+			"phone": "0976.545.519",
+			"website": "www.chemeng.hust.edu.vn/tuyensinh"
+		},
+		{
+			"id": 8,
+			"name": "Viện Công nghệ Sinh học và Công nghệ Thực phẩm",
+			"leader": "PGS.TS. Nguyễn Thị Minh Tú, Phó Viện trưởng",
+			"email": "tu.nguyenthiminh@hust.edu.vn",
+			"phone": "0912.573.366",
+			"website": "http://sbft.hust.edu.vn/"
+		},
+		{
+			"id": 9,
+			"name": "Viện Khoa học và Công nghệ Môi trường",
+			"leader": "PGS.TS. Nguyễn Đức Quảng, Phó Viện trưởng",
+			"email": "quang.nguyeduc@hust.edu.vn",
+			"phone": "0918.230.009",
+			"website": "https://inest.hust.edu.vn/"
+		},
+		{
+			"id": 10,
+			"name": "Viện Khoa học và Kỹ thuật Vật liệu",
+			"leader": "ThS. Nguyễn Minh Thuyết, Trợ lý đào tạo và tuyển sinh Viện",
+			"email": "thuyet.nguyeminh@hust.edu.vn",
+			"phone": "0983.689.765",
+			"website": "https://mse.hust.edu.vn/"
+		},
+		{
+			"id": 11,
+			"name": "Viện Khoa học và Công nghệ nhiệt lạnh",
+			"leader": "TS. Trịnh Quốc Dũng, Trợ lý đào tạo Viện",
+			"email": "dung.trinhquoc@hust.edu.vn",
+			"phone": "0963.860.588",
+			"website": "https://sheer.hust.edu.vn/"
+		},
+		{
+			"id": 12,
+			"name": "Viện Vật lý Kỹ thuật",
+			"leader": "PGS. Nguyễn Hữu Lâm, Phó Viện trưởng",
+			"email": "lam.nguyenhuu@hust.edu.vn",
+			"phone": "098 909 6174",
+			"website": "https://sep.hust.edu.vn"
+		},
+		{
+			"id": 13,
+			"name": "Viện Dệt may - Da giầy và Thời trang",
+			"leader": "TS. Đào Anh Tuấn, Trợ lý đào tạo Viện",
+			"email": "tuan.daoanh@hust.edu.vn",
+			"phone": "0979.200.780",
+			"website": "https://bktextile.hust.edu.vn/"
+		},
+		{
+			"id": 14,
+			"name": "Viện Sư phạm Kỹ thuật",
+			"leader": "TS. Nguyễn Thị Hương Giang, Phó Viện trưởng",
+			"email": "giang.nguyenthihuong@hust.edu.vn",
+			"phone": "0915.754.232",
+			"website": "https://feed.hust.edu.vn/"
+		},
+		{
+			"id": 15,
+			"name": "Viện Kinh tế và Quản lý",
+			"leader": "TS. Phạm Cảnh Huy, Phó Viện trưởng",
+			"email": "huy.phamcanh@hust.edu.vn",
+			"phone": "0936.285.885",
+			"website": "http://sem.hust.edu.vn/"
+		},
+		{
+			"id": 16,
+			"name": "Viện Ngoại ngữ",
+			"leader": "ThS. Nguyễn Mỹ Bình, Phụ trách truyền thông Viện ",
+			"email": "binh.nguyenmy@hust.edu.vn",
+			"phone": "0903.226.899",
+			"website": "https://sofl.hust.edu.vn/"
+		}
+	]
+}
